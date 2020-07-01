@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    border-bottom: 3px
+    
+}
+
+.felix {
+    text-align: center;
+    border:5px;
+    border-style: dotted;
+    border-color: #581845;
+}
+
+#felixp {
+    text-align: center;
+}
+
+.darling {
+    text-align: center;
+    border:5px;
+    border-style: dotted;
+    border-color: #581845;
+}
+
+#darlingp {
+
+}
+
+.olive {
+    text-align: center;
+    border:5px;
+    border-style: dotted;
+    border-color: #581845;
+}
+
+.footer {
+    
+    border-color: white;
+    border-width: 5px;
+    background-color: #FF5733;
+    text-align: center;
+}
+
+.footertext {
+    color: white;
+}
